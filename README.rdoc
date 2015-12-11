@@ -1,5 +1,5 @@
 == README
- Online store build with rails 3 days raw
+ Online store build with rails 3 days raw.
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
